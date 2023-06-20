@@ -1,5 +1,7 @@
 import time   # imports time module to show timer
 
+print("WELCOME TO TIMER APPLICATION \n \n")
+
 while True: # while loop to check correct input of user
     timer = int(input("Enter the time in seconds: ")) # Prompt the user to enter the time in seconds
 
