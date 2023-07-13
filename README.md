@@ -13,6 +13,7 @@ This is the list of all Beginner Projects:
 - calculator in python
 - countdown program
 - currency converter
+- Clear and Clean The png folder
 - dice roller
 - heads and tails
 - rock paper scissors basic game
@@ -24,11 +25,12 @@ This is the list of all Beginner Projects:
 - who want to be a millionaire
 
 ### Intermediate Projects
-If you know the Basics of Python and want to learn GUI (Graphical User Interfaces) in python by Tkinter and Pygame modules then this folder is for you.
+If you know the Basics of Python and want to learn some intermediate concepts like specific modules and some GUI (Graphical User Interfaces) in python by Tkinter and Pygame modules then this folder is for you.
 This is the list of projects:
 - Tkinter Snake Game 1
 - Tkinter Snake Game 2
 - Tkinter Tic Tac Tae Game
+- Tkinter Tic Tac Tae Game 2
 - More to come
 
 ### Expert Level Projects
