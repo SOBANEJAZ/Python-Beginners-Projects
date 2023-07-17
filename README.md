@@ -10,22 +10,23 @@ I have divided the Projects into Three sub categories.
 If you are a beginner and you are interested in making the grip on basic concepts in python more tighter, you can check them out.
 
 This is the list of all Beginner Projects:
-- calculator in python
-- countdown program
-- currency converter
+- Calculator in python
+- Countdown program
+- Currency converter
 - Clear and Clean The png folder
-- dice roller
-- heads and tails
+- Dice roller
+- Heads and tails
 - Number Guess Game
-- fibonnaci number
-- factorial finder
-- rock paper scissors basic game
-- rock paper scissors better
-- simple library managemet system
-- temperature converter
-- tic tac toe
-- turtle projects
-- who want to be a millionaire
+- Fibonnaci number
+- Factorial finder
+- Rock paper scissors basic game
+- Rock paper scissors better
+- Simple library managemet system
+- Temperature converter
+- Tic tac toe
+- Turtle projects
+- Who want to be a millionaire
+- Motivation Giver
 
 ### Intermediate Projects
 If you know the Basics of Python and want to learn some intermediate concepts like specific modules and some GUI (Graphical User Interfaces) in python by Tkinter and Pygame modules then this folder is for you.
