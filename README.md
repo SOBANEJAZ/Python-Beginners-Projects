@@ -16,6 +16,9 @@ This is the list of all Beginner Projects:
 - Clear and Clean The png folder
 - dice roller
 - heads and tails
+- Number Guess Game
+- fibonnaci number
+- factorial finder
 - rock paper scissors basic game
 - rock paper scissors better
 - simple library managemet system
@@ -23,7 +26,6 @@ This is the list of all Beginner Projects:
 - tic tac toe
 - turtle projects
 - who want to be a millionaire
-- Number Guess Game
 
 ### Intermediate Projects
 If you know the Basics of Python and want to learn some intermediate concepts like specific modules and some GUI (Graphical User Interfaces) in python by Tkinter and Pygame modules then this folder is for you.
