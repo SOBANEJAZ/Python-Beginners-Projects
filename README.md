@@ -28,6 +28,7 @@ This is the list of all Beginner Projects:
 - Motivation Giver
 - Turtle projects ("Colorful Tree", "Minecraft Bee", "VS-Code logo", "Windows-10 logo", "Star", "Computer" and a lot more)
 - Zen of Python
+- Choose your own adventure
 
 ### Intermediate Projects
 If you know the Basics of Python and want to learn some intermediate concepts like specific modules and some GUI (Graphical User Interfaces) in python by Tkinter and Pygame modules then this folder is for you.
