@@ -39,6 +39,7 @@ while True:
     i = 0
 
     def ask():
+        
         print("do you want to risk this money for next question")
         z1 = input("say yes to continue: \n")
         if(z1!="yes"):
