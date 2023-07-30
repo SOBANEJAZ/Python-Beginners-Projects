@@ -81,5 +81,4 @@ But I will also accept contributings and if there is any issue feel free to writ
 
 ## Contact
 
-Feel Free to contact me on my mail
-email: sobanpythonista@gmail.com
+Feel Free to contact me on my email: sobanpythonista@gmail.com
