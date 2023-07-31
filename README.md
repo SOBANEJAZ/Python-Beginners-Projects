@@ -41,6 +41,9 @@ This is the list of all Beginner Projects:
 - Tic tac toe
 - Zen of Python
 - Rename the folder with numbering
+- Dice roll pig game
+- Madlibs Generator
+- Timed Math Challenge
 
 ### Intermediate Projects
 
