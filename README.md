@@ -19,9 +19,9 @@ This is the list of all Introductory Projects in may help you start your journey
 - Motivation Giver
 - Turtle projects ("Colorful Tree", "Minecraft Bee", "VS-Code logo", "Windows-10 logo", "Star", "Computer" and a lot more)
 - Choose your own adventure
-- Who want to be a millionaire
 - Heads and tails
 - Rock paper scissors basic game
+- Word Replacement Program
 
 ### 1. Starter Projects / Beginner Projects
 
@@ -40,6 +40,7 @@ This is the list of all Beginner Projects:
 - Temperature converter
 - Tic Tac Toe
 - Tic Tac Toe Unbeatable AI
+- Hangman Game
 - Zen of Python
 - Rename the folder with numbering
 - Dice roll pig game
@@ -47,6 +48,7 @@ This is the list of all Beginner Projects:
 - Timed Math Challenge
 - Reversing a String in python
 - Binary Search (algorithm)
+- Who want to be a millionaire
 
 ### Intermediate Projects
 
