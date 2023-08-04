@@ -38,12 +38,15 @@ This is the list of all Beginner Projects:
 - Rock paper scissors better
 - Simple library managemet system
 - Temperature converter
-- Tic tac toe
+- Tic Tac Toe
+- Tic Tac Toe Unbeatable AI
 - Zen of Python
 - Rename the folder with numbering
 - Dice roll pig game
 - Madlibs Generator
 - Timed Math Challenge
+- Reversing a String in python
+- Binary Search (algorithm)
 
 ### Intermediate Projects
 
@@ -56,6 +59,7 @@ This is the list of projects:
 - Tkinter Clock App
 - Tkinter Calculator App
 - Tkinter Temperature Scale
+- Tic Tac Toe Unbeatable AI
 
 ### Advanced Projects
 
