@@ -1,17 +1,12 @@
-# Python Projects Collection
+# Python Beginners Projects Collection
 
 This is a collection of all the python projects that I have programmed. Some of these have been inspired but I have typed all of them form scratch. Hope you guys like them.
 
 ![Banner](https://res.cloudinary.com/practicaldev/image/fetch/s--jPSX-ydn--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/tteuu4xw5tomxb7l0xjx.png)
 
-## Categories
+## All Projects Names
 
-I have divided the Projects into Three sub categories.
-
-### 1. Introductory Projects
-
-If you have just started learning python then these python projects will help get motivation to learn python and let you know the possibilities of python programming language. You can also run the program in the other folder to see the functionality of python.
-This is the list of all Introductory Projects in may help you start your journey of python easily:
+I have organized the projects in order of easy to difficult projects for beginner. The order from easy to difficulty is stated bolow:
 
 - Hello world
 - Calculator in python
@@ -22,13 +17,6 @@ This is the list of all Introductory Projects in may help you start your journey
 - Heads and tails
 - Rock paper scissors basic game
 - Word Replacement Program
-
-### 1. Starter Projects / Beginner Projects
-
-If you are a beginner and you are interested in making the grip on basic concepts in python more tighter, you can check them out.
-
-This is the list of all Beginner Projects:
-
 - Countdown program
 - Currency converter
 - Clear and Clean The png folder
@@ -49,12 +37,6 @@ This is the list of all Beginner Projects:
 - Reversing a String in python
 - Binary Search (algorithm)
 - Who want to be a millionaire
-
-### Intermediate Projects
-
-If you know the Basics of Python and want to learn some intermediate concepts like specific modules and some GUI (Graphical User Interfaces) in python by Tkinter and Pygame modules then this folder is for you.
-This is the list of projects:
-
 - Python Best Practices
 - Tkinter Snake Game
 - Tkinter Tic Tac Tae Game
@@ -62,21 +44,7 @@ This is the list of projects:
 - Tkinter Calculator App
 - Tkinter Temperature Scale
 - Tic Tac Toe Unbeatable AI
-
-### Advanced Projects
-
-I have added the projects that are a little advanced in python's world and may require a little bit of information of the basics and intermediate concepts of the python programming language. There are also the Data structures and algorithms concepts in the folder.
-
-The Projects in this folder are:
-
 - Data structures and Algoritms with examples
-
-### Expert Level Projects
-
-If you are interested in Machine Learning, Deep Learning and AI, then this folder is for you.
-This is the list of projects:
-
-- No Projects yet
 
 ### Note
 
