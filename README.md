@@ -63,7 +63,7 @@ I have organized the projects in order of easy to difficult projects for beginne
 
 ### Note
 
-Python is the Best programming language for beginners and python experts to increase their skills and show off big projects in their resumes.
+Python is the Best programming language for beginners and try out these programs.
 
 ## Contributing
 
