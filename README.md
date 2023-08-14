@@ -59,6 +59,7 @@ I have organized the projects in order of easy to difficult projects for beginne
 - Tkinter Temperature Scale
 - Tic Tac Toe
 - Tic Tac Toe Unbeatable AI
+- The Last Program
 
 ### Note
 
