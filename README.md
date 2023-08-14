@@ -17,6 +17,8 @@ I have organized the projects in order of easy to difficult projects for beginne
 - Heads and tails
 - Rock paper scissors basic game
 - Word Replacement Program
+- Kilometer to mile converter
+- prime number finder
 - Countdown program
 - Currency converter
 - Clear and Clean The png folder
