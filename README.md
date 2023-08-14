@@ -8,46 +8,57 @@ This is a collection of all the python projects that I have programmed. Some of 
 
 I have organized the projects in order of easy to difficult projects for beginner. The order from easy to difficulty is stated bolow:
 
-- Hello world
-- Calculator in python
-- Number Guess Game
-- Motivation Giver
-- Turtle projects ("Colorful Tree", "Minecraft Bee", "VS-Code logo", "Windows-10 logo", "Star", "Computer" and a lot more)
-- Choose your own adventure
-- Heads and tails
-- Rock paper scissors basic game
-- Word Replacement Program
-- Kilometer to mile converter
-- Fahrenheit to Celsius converter
-- prime number finder
-- Countdown program
-- Currency converter
-- Clear and Clean The png folder
-- Dice roller
-- Fibonnaci number
-- Factorial finder
-- Rock paper scissors better
-- Simple library managemet system
-- Temperature converter
-- Tic Tac Toe
-- Tic Tac Toe Unbeatable AI
-- Hangman Game
-- Zen of Python
-- Rename the folder with numbering
-- Dice roll pig game
-- Madlibs Generator
-- Timed Math Challenge
-- Reversing a String in python
-- Binary Search (algorithm)
-- Who want to be a millionaire
-- Python Best Practices
-- Tkinter Snake Game
-- Tkinter Tic Tac Tae Game
-- Tkinter Clock App
-- Tkinter Calculator App
-- Tkinter Temperature Scale
-- Tic Tac Toe Unbeatable AI
-- Data structures and Algoritms with examples
+Print Hello World
+Turtle Colorful Tree
+Turtle Star
+Turtle Love
+Turtle Nigeria Flag
+Turtle Pakistan Flag
+Turtle Imposter
+Turtle Minecraft Bee
+Turtle Spirograph
+Turtle Computer
+Turtle Windows Logo
+Turtle Vs Code
+Calculator In Python
+Binary Search (algorithm)
+Factorial Finder
+Fibonacci Number
+Heads And Tails
+Kilometers To Miles Converter
+Fahrenheit To Celsius Converter
+Number Guessing Game
+Drink Water Notification App
+Motivation Giver
+Password Generator
+Madlibs Generator
+Rock Paper Scissors Basic Game
+Temperature Converter
+Simple Library Management System
+Rock Paper Scissors Better
+Choose Your Own Adventure
+Clear And Clean Folder Of PNG Files
+Rename The Folder With Numbering
+Reverse A String
+Timed Math Challenge
+Turtle Projects
+Countdown Program
+Currency Converter
+Dice Roll Pig Game
+Dice Roller
+Word Replacement Program
+Zen Of Python
+Python Best Practices
+Code Examples Of Data Structures & Algorithms
+Who Wants To Be A Millionaire
+Typing Speed Game
+Tkinter Calculator App
+Tkinter Clock App
+Tkinter Snake Game
+Tkinter Tic Tac Toe Game
+Tkinter Temperature Scale
+Tic Tac Toe
+Tic Tac Toe Unbeatable AI
 
 ### Note
 

@@ -12,5 +12,5 @@ def rename_folders_with_number(directory):
         print(f"Renamed '{folder}' to '{new_folder_name}'")
 
 if __name__ == "__main__":
-    target_directory = "."  # Replace this with the full path of the directory containing the folders to rename
+    target_directory = "D:/My Github repositories/Python-Projects-Collection"  # Replace this with the full path of the directory containing the folders to rename
     rename_folders_with_number(target_directory)
