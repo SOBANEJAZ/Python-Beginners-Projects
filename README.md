@@ -18,6 +18,7 @@ I have organized the projects in order of easy to difficult projects for beginne
 - Rock paper scissors basic game
 - Word Replacement Program
 - Kilometer to mile converter
+- Fahrenheit to Celsius converter
 - prime number finder
 - Countdown program
 - Currency converter
