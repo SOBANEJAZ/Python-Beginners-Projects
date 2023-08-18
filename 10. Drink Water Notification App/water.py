@@ -6,7 +6,7 @@ if __name__ == "__main__":
         notification.notify(
             title = "Please Drink Water",
             message = "Drinking water helps better to work and refreshes us",
-            app_icon = "D:/My Github repositories/Python-Projects-Collection/2. Python Starter Projects/22. Drink Water Notification app/water.ico",
+            app_icon = "D:/My Github repositories/Python-Projects-Collection/10. Drink Water Notification App/water.ico",
             timeout = 10
         )      
         time.sleep(60*60)
